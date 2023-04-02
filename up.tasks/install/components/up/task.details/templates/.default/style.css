@@ -1,0 +1,37 @@
+
+.input-title {
+    border: 0;
+    background: none;
+    color: white;
+    FONT-SIZE: 30PX;
+    box-shadow: none;
+    outline: none;
+    width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.input-desk {
+    border: 0;
+    background: none;
+    color: white;
+    FONT-SIZE: 20PX;
+    box-shadow: none;
+    width: 100%;
+    outline: none;
+}
+
+.hero.is-link.Low {
+    background-color: #d0edf9;
+}
+.hero.is-link.Normal {
+    background-color: #f9d89d;
+}
+.hero.is-link.High {
+    background-color: #f97c7c;
+}
+.hero.is-link.Completed {
+    background-color: #a8dfa8;
+}
+
