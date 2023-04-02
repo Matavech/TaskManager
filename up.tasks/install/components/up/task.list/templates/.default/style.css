@@ -1,0 +1,35 @@
+.card-content {
+	height: 100px;
+	overflow: clip;
+}
+
+.card-header {
+	height: 50px;
+	overflow: clip;
+}
+
+
+
+.priority.Low {
+	background-color: #d0edf9;
+}
+
+.priority.Normal {
+	background-color: #f9d89d;
+}
+
+.priority.High {
+	background-color: #f97c7c;
+}
+
+.status.New {
+	background-color: #9ebfd0;
+}
+
+.status.Processing {
+	background-color: #99a1aa;
+}
+
+.status.Completed {
+	background-color: #0c0;
+}
